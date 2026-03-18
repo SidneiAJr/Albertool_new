@@ -888,9 +888,8 @@ case $OPT_MAIN in
       3) backend_ts; frontend_vanilla; create_doc ;;
       *)
         echo "Opção inválida"
-
-```
       ;;
     esac
   ;;
 esac
+```
