@@ -25,13 +25,6 @@ A CLI foi desenvolvida para eliminar o trabalho repetitivo de criar pastas, arqu
 
 ---
 
-## 📁 Estrutura Criada
-
-A CLI gera automaticamente a seguinte estrutura:
-
-
----
-
 ## 🧪 Dados de Teste
 
 - ✔ Exemplo de teste unitário com xUnit
