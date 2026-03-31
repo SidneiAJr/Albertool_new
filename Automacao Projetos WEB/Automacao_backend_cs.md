@@ -48,6 +48,12 @@ Se possível, aceito um café ☕ como forma de apoio — agradeço demais!
 3. Cole o conteúdo do script disponível no repositório
 4. Salve o arquivo e execute com botão direto do Mouse gitbash.
 
+---
+
+## Estrutura Criada:
+
+<img width="271" height="676" alt="image" src="https://github.com/user-attachments/assets/728900ec-91e9-4c49-85fa-2caf7eb06e6c" />
+
 ## Script:
 ```bash
 #!/bin/bash
