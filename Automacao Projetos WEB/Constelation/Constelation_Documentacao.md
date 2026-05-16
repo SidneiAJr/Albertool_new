@@ -110,3 +110,7 @@ São criados dados auxiliares:
 
 (2.0 Beta)-[https://github.com/SidneiAJr/Albertool/blob/main/Automacao%20Projetos%20WEB/Constelation/Constelation_versao_2.0.md]
 
+## ⚖️ Licença
+
+⚠️ **Proibido:** Venda ou comercialização deste software.
+
